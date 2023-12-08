@@ -1,0 +1,59 @@
+html{
+    cursor: url(../img/mata_mosquito.png) 30 30, auto;
+    }
+   
+
+body{
+    background: linear-gradient(to right, #FFDEE9, #B5FFFC);
+    
+}
+
+.painel{
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    left: 0px;
+    bottom: 0px;
+    border-top: solid 1px #fff;
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+.life{
+    float: left;
+}
+
+.timer{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mosquito{
+    width: 50px;
+    height: 50px;
+}
+.mosquito1{
+    width: 100px;
+    height: 100px;
+}
+.mosquito2{
+    width: 150px;
+    height: 150px;
+}
+.mosquito3{
+    width: 200px;
+    height: 200px;
+}
+
+.lado1{
+    transform: scaleX(1);
+}
+
+.lado2{
+    transform: scaleX(-1);
+}
+
+    
+ 
+  
